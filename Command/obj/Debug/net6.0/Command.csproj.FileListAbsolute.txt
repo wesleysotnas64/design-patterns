@@ -1,0 +1,14 @@
+C:\Users\wesle\source\repos\Design Patterns\Command\bin\Debug\net6.0\Command.exe
+C:\Users\wesle\source\repos\Design Patterns\Command\bin\Debug\net6.0\Command.deps.json
+C:\Users\wesle\source\repos\Design Patterns\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\Users\wesle\source\repos\Design Patterns\Command\bin\Debug\net6.0\Command.dll
+C:\Users\wesle\source\repos\Design Patterns\Command\bin\Debug\net6.0\Command.pdb
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.dll
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\refint\Command.dll
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.pdb
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\Users\wesle\source\repos\Design Patterns\Command\obj\Debug\net6.0\ref\Command.dll
