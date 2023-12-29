@@ -6,7 +6,7 @@ Repositório de estudo sobre os padrões de projeto GOF.
   - [ ] Abstract Factory
   - [X] Builder
   - [ ] Factory Method
-  - [ ] Prototype
+  - [X] Prototype
   - [X] Singleton
 
 - Estruturais
