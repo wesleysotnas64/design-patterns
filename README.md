@@ -3,7 +3,7 @@ Repositório de estudo sobre os padrões de projeto GOF.
 
 ## Padrões implementados
 - Criacionais
-  - [ ] Abstract Factory
+  - [X] Abstract Factory
   - [X] Builder
   - [ ] Factory Method
   - [X] Prototype
