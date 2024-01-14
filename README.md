@@ -5,7 +5,7 @@ Repositório de estudo sobre os padrões de projeto GOF.
 - Criacionais
   - [X] Abstract Factory
   - [X] Builder
-  - [ ] Factory Method
+  - [X] Factory Method
   - [X] Prototype
   - [X] Singleton
 
